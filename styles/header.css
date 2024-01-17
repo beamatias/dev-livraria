@@ -68,10 +68,6 @@
     display: none;
 }
 
-.container__titulo {
-    display: none;
-}
-
 .container__texto {
     display: none;
 }
@@ -81,25 +77,9 @@
 }
 
 @media screen and (min-width: 1024px) {
-
-    .container__titulo, 
-    .container__titulo--negrito { 
-    font-family: var(--fonte-secundario); 
-    font-size: 30px; 
-    } 
-
     .container {
         display: flex;
         align-items: center;
-    }
-    
-    .container__titulo { 
-        font-weight: 400; 
-        display: inline-block;
-    } 
-    
-    .container__titulo--negrito { 
-        font-weight: 700; 
     }
 
     .opcoes {
