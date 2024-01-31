@@ -2,6 +2,7 @@
 
 ![img-livrariadev](https://github.com/beamatias/dev-livraria/assets/140823685/c677be36-a5a6-4424-9bd1-35458c5f2004)
 
+<h2> Descrição </h2>
 <p>Projeto de livraria para desenvolvedores, Este projeto foi criado para oferecer uma experiência de navegação amigável e informativa sobre livros relacionados ao mundo da programação, desenvolvimento de software e tecnologia em geral.</p>
 
 <h2>Tecnologias Utilizadas</h2>
