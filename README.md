@@ -6,8 +6,8 @@
 
 <h2>Tecnologias Utilizadas</h2>
 
-*HTML5
-*CSS3
+* HTML5
+* CSS3
 
 <h2>Projeto Online</h2>
 
